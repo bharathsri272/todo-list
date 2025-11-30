@@ -1,4 +1,4 @@
-# 📝 React To-Do List (Day 2 Project)
+# 📝 React To-Do List 
 
 A simple, clean, beginner-friendly To-Do List app built with React.  
 This is the second project in my daily React learning series.
