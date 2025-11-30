@@ -66,7 +66,7 @@ Then open:
 
 ## 🏗️ Why I Built This
 
-This project is part of my goal to learn React through daily hands-on projects.  
+This project is part of my goal to learn React through hands-on projects.  
 Today’s focus was:
 
 - Working with arrays + state  
